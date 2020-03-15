@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.1",
         "symfony-cmf/routing": "^2.1.0",
-        "symfony/framework-bundle": "^3.4 || ^4.3",
+        "symfony/framework-bundle": "^5.0",
         "twig/twig": "^2.4.4 || ^3.0"
     },
     "require-dev": {
