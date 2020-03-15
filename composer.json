@@ -34,9 +34,9 @@
         "doctrine/orm": "^2.5",
         "symfony-cmf/testing": "^3@dev",
         "doctrine/data-fixtures": "^1.0.0",
-        "symfony/form": "^3.4 || ^4.3",
-        "symfony/translation": "^3.4 || ^4.3",
-        "symfony/validator": "^3.4 || ^4.3"
+        "symfony/form": "^5.0",
+        "symfony/translation": "^5.0",
+        "symfony/validator": "^5.0"
     },
     "suggest": {
         "doctrine/phpcr-odm": "To enable support for the PHPCR ODM documents (^1.4)",
