@@ -14,6 +14,12 @@
             "homepage": "https://github.com/symfony-cmf/RoutingBundle/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cconard96/CMF-Routing"
+        }
+    ],
     "require": {
         "php": "^7.1",
         "symfony-cmf/routing": "^2.1.0",
